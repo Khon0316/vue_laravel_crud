@@ -28,6 +28,7 @@ Vue.component(
 
 import HomeComponent from "./components/HomeComponent.vue";
 import CreateComponent from "./components/CreateComponent.vue";
+import EditComponent from "./components/EditComponent.vue";
 import IndexComponent from "./components/IndexComponent.vue";
 
 const routes = [
